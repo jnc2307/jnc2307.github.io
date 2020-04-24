@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,YACE,qBAAsB,CACtB,WAAY,CACZ,YAAa,CACb,UAAY,CACZ,iBACF","file":"main.afaa53b7.chunk.css","sourcesContent":[".App-header {\r\n  background-color: #222;\r\n  height: 60px;\r\n  padding: 20px;\r\n  color: white;\r\n  text-align: center;\r\n}\r\n"]}
